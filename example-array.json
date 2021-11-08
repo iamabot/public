@@ -1,15 +1,18 @@
 {
 	"computers": [{
 			"name": "computer1",
-			"address": "some.address.1"
+			"address": "some.address.1",
+			"ip": "192.168.1.1"
 		},
 		{
 			"name": "computer2",
-			"address": "some.address.2"
+			"address": "some.address.2",
+			"ip": "192.168.1.1"
 		},
 		{
 			"name": "computer3",
-			"address": "some.address.3"
+			"address": "some.address.3",
+			"ip": "192.168.1.2"
 		}
 	]
 }
